@@ -46,8 +46,7 @@ header {
 header h1 {
     margin: 0;
     font-family: "Oxanium", sans-serif;
-    font-optical-sizing: auto;
-    font-size:150px;                   
+    font-optical-sizing: auto;                   
     color:#000000;                      
 }
 
