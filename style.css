@@ -55,7 +55,6 @@ ul.timeline {
     padding: 0;
     position: relative;
 }
-
 ul.timeline li {
     padding: 10px 0;
     position: relative;
@@ -84,6 +83,13 @@ header h1 {
     font-family: "Oxanium", sans-serif;
     font-optical-sizing: auto;                   
     color:#333;                      
+}
+
+img {
+    max-width: 100%; /* 最大幅を100%に設定 */
+    height: auto; /* 高さを自動調整 */
+    border: 2px solid #ccc; /* 枠線の追加 */
+    border-radius: 8px; /* 角を丸くする */
 }
 
 nav ul {
