@@ -46,7 +46,7 @@ body {
 }
 
 .title {
-    color: #2484D0;
+    color: #333;
     text-align: center;
 }
 
@@ -65,7 +65,7 @@ ul.timeline li::before {
     content: '';
     width: 10px;
     height: 10px;
-    background-color: #2484D0;
+    background-color: #333;
     border-radius: 50%;
     position: absolute;
     left: -20px;
@@ -83,7 +83,7 @@ header h1 {
     margin: 0;
     font-family: "Oxanium", sans-serif;
     font-optical-sizing: auto;                   
-    color:#000000;                      
+    color:#333;                      
 }
 
 nav ul {
