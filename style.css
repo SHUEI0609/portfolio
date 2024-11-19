@@ -48,6 +48,7 @@ body {
 .title {
     color: #333;
     text-align: center;
+    font-family: "Oxanium", sans-serif;
 }
 
 ul.timeline {
@@ -137,9 +138,6 @@ a {
     color: #333;
 }
 
-a:hover {
-    color: #007BFF;
-}
 .skills-section {
     padding: 2rem;
     max-width: 1200px;
