@@ -93,6 +93,13 @@ img {
     border-radius: 8px; /* 角を丸くする */
 }
 
+video {
+    max-width: 100%; /* 最大幅を100%に設定 */
+    height: auto; /* 高さを自動調整 */
+    border: 2px solid #ccc; /* 枠線の追加 */
+    border-radius: 8px; /* 角を丸くする */
+}
+
 nav ul {
     list-style: none;
     padding: 0;
